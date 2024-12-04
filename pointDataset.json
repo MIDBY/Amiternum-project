@@ -19,5 +19,10 @@
     "description": "Palazzina bifamiliare costruita negli anni '70, ancora regge nonostante lo smottamento della collina sopra cui è stata costruita.",
     "latitude": 42.3560747928984,
     "longitude": 14.19793613255024
+  },{
+    "name": "Prova in casa",
+    "description": "Casa abitata.",
+    "latitude": 42.355955,
+    "longitude": 14.197531
   }
 ]
